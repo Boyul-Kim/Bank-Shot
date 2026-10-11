@@ -1,6 +1,6 @@
 # Auction Board
 
-A local web app for 2026-27 fantasy basketball salary-cap drafts:
+A AI-driven workflow web app for 2026-27 fantasy basketball salary-cap drafts:
 
 - **Auction board.** Blended auction targets for the top 150, with each source shown separately and a production-value price (Stats $).
 - **Projected stats.** Per-game projections, shaded by category value.
